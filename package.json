@@ -18,6 +18,7 @@
     "eslint-plugin-react": "^7.14.0"
   },
   "dependencies": {
+    "graphql": "^16.3.0",
     "knex": "^0.21.6",
     "lodash": "^4.17.5",
     "node-gyp": "^9.0.0",
